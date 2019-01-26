@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------
-									Domestic-Airline-Reservation-System
+							Domestic-Airline-Reservation-System
 ----------------------------------------------------------------------------------------------
 This database system contains the data of proposed Domestic Airline Reservation System.
 In this system, User can search for the availability of flights, Check flight schedules and Fare. 
